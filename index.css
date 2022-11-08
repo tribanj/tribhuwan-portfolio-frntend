@@ -80,7 +80,7 @@ body{
 
 #home {
     height: 700px;
-    background-image: url('/pietro-jeng-n6B49lTx7NM-unsplash.jpg');
+    background-image: url('pietro-jeng-n6B49lTx7NM-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -156,7 +156,7 @@ body{
 }
 
 #achivement {
-    background-image: url('/pietro-jeng-n6B49lTx7NM-unsplash.jpg');
+    background-image: url('pietro-jeng-n6B49lTx7NM-unsplash.jpg');
 }
 
 #achivement::before {
@@ -317,7 +317,7 @@ section #contact {
 
 
 #contact {
-    background-image: url('/pexels-andy-vu-3244513.jpg');
+    background-image: url('pexels-andy-vu-3244513.jpg');
     /* background: #111; */
     background-repeat: no-repeat;
     background-size: cover;
